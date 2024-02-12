@@ -162,39 +162,39 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/heilongjiangtv.jpg" tvg-id="46" tvg-name="黑龙江卫视" group-title="黑龙江频道",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://upload.112114.xyz/logo/hljfz.png" group-title="黑龙江频道",黑龙江新闻法治
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://diyp1.112114.xyz/logo/hljfz.png" group-title="黑龙江频道",黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://upload.112114.xyz/logo/hljdspd.png" group-title="黑龙江频道",黑龙江都市
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://diyp1.112114.xyz/logo/hljdspd.png" group-title="黑龙江频道",黑龙江都市
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江公共农业" tvg-name="黑龙江公共农业" tvg-logo="https://upload.112114.xyz/logo/hljny.png" group-title="黑龙江频道",黑龙江农业科教
+#EXTINF:-1 tvg-id="黑龙江公共农业" tvg-name="黑龙江公共农业" tvg-logo="https://diyp1.112114.xyz/logo/hljny.png" group-title="黑龙江频道",黑龙江农业科教
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://upload.112114.xyz/logo/hljwt.png" group-title="黑龙江频道",黑龙江文体
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://diyp1.112114.xyz/logo/hljwt.png" group-title="黑龙江频道",黑龙江文体
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://upload.112114.xyz/logo/hljys.png" group-title="黑龙江频道",黑龙江影视
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://diyp1.112114.xyz/logo/hljys.png" group-title="黑龙江频道",黑龙江影视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://upload.112114.xyz/logo/hljse.png" group-title="黑龙江频道",黑龙江少儿
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://diyp1.112114.xyz/logo/hljse.png" group-title="黑龙江频道",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 
 #哈尔滨电视台/5个频道
-#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://upload.112114.xyz/logo/hrbxwzh.png" group-title="哈尔滨频道",哈尔滨新闻综合
+#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://diyp1.112114.xyz/logo/hrbxwzh.png" group-title="哈尔滨频道",哈尔滨新闻综合
 https://stream.hrbtv.net/xwzh/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="哈尔滨都市资讯" tvg-name="哈尔滨都市资讯" tvg-logo="https://upload.112114.xyz/logo/hrbzx.png" group-title="哈尔滨频道",哈尔滨都市资讯
+#EXTINF:-1 tvg-id="哈尔滨都市资讯" tvg-name="哈尔滨都市资讯" tvg-logo="https://diyp1.112114.xyz/logo/hrbzx.png" group-title="哈尔滨频道",哈尔滨都市资讯
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐" tvg-logo="https://upload.112114.xyz/logo/hrbyl.png" group-title="哈尔滨频道",哈尔滨娱乐
+#EXTINF:-1 tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐" tvg-logo="https://diyp1.112114.xyz/logo/hrbyl.png" group-title="哈尔滨频道",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://upload.112114.xyz/logo/hrbys.png" group-title="哈尔滨频道",哈尔滨影视
+#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://diyp1.112114.xyz/logo/hrbys.png" group-title="哈尔滨频道",哈尔滨影视
 https://stream.hrbtv.net/yspd/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="https://upload.112114.xyz/logo/hrbsh.png" group-title="哈尔滨频道",哈尔滨生活
+#EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="https://diyp1.112114.xyz/logo/hrbsh.png" group-title="哈尔滨频道",哈尔滨生活
 https://stream.hrbtv.net/shpd/sd/live.m3u8
 
 #数字高清/28个频道
