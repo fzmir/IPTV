@@ -49,7 +49,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视频道",CCTV-15音乐
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://diyp1.112114.xyz/logo/cctv-16奥林匹克4k.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视频道",CCTV奥林匹克频道
+#EXTINF:-1 tvg-logo="https://diyp1.112114.xyz/logo/CCTV-16奥林匹克.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视频道",CCTV奥林匹克频道
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视频道",CCTV-17农村农业
