@@ -62,10 +62,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 #卫视频道高清/28个频道
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" tvg-id="27" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1752929778_1854170372/ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/zhejiangtv.jpg" tvg-id="28" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangsutv.jpg" tvg-id="29" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
