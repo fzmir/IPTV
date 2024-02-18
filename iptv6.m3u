@@ -193,7 +193,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://diyp1.112114.xyz/logo/lj-ds.png" group-title="黑龙江频道",黑龙江都市
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 
-#EXTINF:-1 tvg-id="黑龙江公共农业" tvg-name="黑龙江公共农业" tvg-logo="https://diyp1.112114.xyz/logo/lj-ny.png" group-title="黑龙江频道",黑龙江农业科教
+#EXTINF:-1 tvg-id="黑龙江公共农业" tvg-name="黑龙江公共农村" tvg-logo="https://diyp1.112114.xyz/logo/lj-ny.png" group-title="黑龙江频道",黑龙江农业科教
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://diyp1.112114.xyz/logo/lj-wt.png" group-title="黑龙江频道",黑龙江文体
