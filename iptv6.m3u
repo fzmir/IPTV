@@ -40,7 +40,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw97298359_-1902076166/
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV-13新闻
-http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视频道",CCTV-14少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
