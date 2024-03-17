@@ -63,7 +63,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/32212281
 
 #卫视频道高清/40个频道
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1752929778_1854170372/ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -87,7 +87,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" tvg-id="37" tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
