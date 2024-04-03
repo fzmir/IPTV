@@ -342,16 +342,13 @@ http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&ts
 http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 
 #EXTINF:-1 tvg-id="D06" tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="国际频道",三立台湾
-http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="D06" tvg-name="三立INEWS" tvg-logo="https://live.fanmingming.com/tv/SETInews.png" group-title="国际频道",三立INEWS
+#EXTINF:-1 tvg-id="D07" tvg-name="三立INEWS" tvg-logo="https://live.fanmingming.com/tv/SETInews.png" group-title="国际频道",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
-#EXTINF:-1 tvg-id="D06" tvg-name="三立NEWS+" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="国际频道",三立NEWS+
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-
-#EXTINF:-1 tvg-id="D07" tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="国际频道",民视台湾
-http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 tvg-id="D08" tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="国际频道",民视台湾
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="D13" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="国际频道",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
