@@ -40,7 +40,8 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV-13新闻
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
+#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视频道",CCTV-14少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
@@ -105,7 +106,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png" tvg-id="42" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+https://itv.lat/tv/live.php?&line=1&id=gsws
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" tvg-id="43" tvg-name="广西卫视" group-title="卫视频道",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
@@ -132,7 +133,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225981/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" tvg-id="52" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+https://itv.lat/tv/live.php?&line=1&id=nmws
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" tvg-id="53" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
@@ -168,7 +169,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" tvg-id="70" tvg-name="康巴卫视" group-title="卫视频道",康巴卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+https://itv.lat/tv/live.php?&line=1&id=kbws
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png" tvg-id="63" tvg-name="延边卫视" group-title="卫视频道",延边卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -184,7 +185,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3
 
 #黑龙江卫视频道/7个频道
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://diyp.112114.xyz/logo/lj-ws.png"  group-title="黑龙江频道",黑龙江综合
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://diyp1.112114.xyz/logo/lj-xw.png" group-title="黑龙江频道",黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
@@ -192,7 +193,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
 #EXTINF:-1 tvg-id="HLJ04" tvg-name="黑龙江都市" tvg-logo="https://diyp1.112114.xyz/logo/lj-ds.png" group-title="黑龙江频道",黑龙江都市
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 
-#EXTINF:-1 tvg-id="HLJ05" tvg-name="黑龙江公共农村" tvg-logo="https://diyp1.112114.xyz/logo/lj-ny.png" group-title="黑龙江频道",黑龙江农业科教
+#EXTINF:-1 tvg-id="HLJ05" tvg-name="黑龙江公共" tvg-logo="https://diyp1.112114.xyz/logo/lj-ny.png" group-title="黑龙江频道",黑龙江农业科教
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 
 #EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://diyp1.112114.xyz/logo/lj-wt.png" group-title="黑龙江频道",黑龙江文体
