@@ -339,9 +339,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 
 #EXTINF:-1 tvg-id="D04" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="国际频道",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="D05" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="国际频道",明珠台
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+https://iptv.hiper25.com/TVB/video.m3u8
 
 #EXTINF:-1 tvg-id="D06" tvg-name="三立INEWS" tvg-logo="https://live.fanmingming.com/tv/SETInews.png" group-title="国际频道",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
