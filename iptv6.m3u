@@ -256,7 +256,7 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 #EXTINF:-1 tvg-id="C17" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="数字频道",风云剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-id="C18" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="数字频道",风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://60.168.231.237:2000/rtp/238.1.79.64:4648
 #EXTINF:-1 tvg-id="C19" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="数字频道",第一剧场
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="C20" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="数字频道",女性时尚
@@ -266,7 +266,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?
 #EXTINF:-1 tvg-id="C22" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="数字频道",兵器科技
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="C23" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="数字频道",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://60.168.231.237:2000/rtp/238.1.79.61:4624
 #EXTINF:-1 tvg-id="C24" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="数字频道",世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="C25" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="数字频道",文化精品
@@ -291,17 +291,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="newtv超级超级体育电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="NewTV系列",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 
-#EXTINF:-1 tvg-id="newtv武博世界" tvg-name="newtv武博世界" tvg-logo="https://live.fanmingming.com/tv/NEWTV武博世界.png" group-title="NewTV系列",武博世界
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
-
 #EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
 #EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png" group-title="NewTV系列",军旅剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-
-#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV炫舞未来.png" group-title="NewTV系列",炫舞未来
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
@@ -334,7 +328,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="D01" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="国际频道",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="D02" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="国际频道",凤凰资讯	
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716878732/ei/LClVZseKNsGBy_sP46Kh-As/ip/20.42.48.210/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716856468/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAJzckvgZ6Kk679tmwdXhGDFuqJjDwbfFJEmxArhbnJ7MAiEAnFr2uRILe-lhSINPqRQ1jCqrJi2K_Ufa42C6UJ4mOPQ%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhALMaxKTOOylTyDssjsuI6KJRWZOBGsn-PlsXt09lC4UPAiANxq4fmJ7cVKozoDmM4vJV9P7iRex68ROrEmiAZEwwrA%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-id="D03" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="国际频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
@@ -345,28 +339,28 @@ https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 
 #EXTINF:-1 tvg-id="D06" tvg-name="三立新闻台" tvg-logo="https://upload.112114.xyz/logo/三立新闻.png" group-title="国际频道",三立INEWS
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716878599/ei/pyhVZrjhFaCzkucPv-OvuA8/ip/20.42.48.210/id/CKjSm5ZeehE.85/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qddn7z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Pu/mm/44/mn/sn-p5qddn7z/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716856468/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgJF0H8A7FSOWx1D9WKfgN0Vh3JIzWF2VuNgQ6LtkOCXkCIQDf8yEYA2RgsL1Q8rInRsgs7PPJcdHyVdc7sl8ExhnObQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAOkz7Afjs_axooQL5xciNdjpPMDN0rYj3R1lI6CAHsGWAiEAgFZs4NXy5ebZcWoXrUSSjxKe5Y3uJqaXZv26wZkbl7s%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 #EXTINF:-1 tvg-id="D07" tvg-name="三立财经新闻台" tvg-logo="https://upload.112114.xyz/logo/三立SET.png" group-title="国际频道",三立INEWS+
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1718693277/ei/PdlwZtroGKzjsfIPzPOGoA8/ip/52.159.150.243/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5msen76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-GxYhtIOxaPiBiTJViwpr4UDN3vDTe0gmJL2fiJKi_85rioBt7zSgL3H2I/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-a5msen76/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1718671291/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM1D5cMHE0x-hBoAr8nDcWEFNCpWM2y3kyEh846W8aQRAiBVLXVJk-6vRw6ny1btwlRSVzhrMkzPGhxJ9FO4yyyPQw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCLJtaecwQICDMj0PXojn7C-oaR4hWq-iRAs-Pza1z7ECIQCMrzIHbKLxKYeS0fRKep0yOyembq8o6zZQ2GUE_ZUY2w%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
 #EXTINF:-1 tvg-id="D08" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/寰宇新闻.png" group-title="国际频道",寰宇新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1718693277/ei/PdlwZtroGKzjsfIPzPOGoA8/ip/52.159.150.243/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5msen76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-GxYhtIOxaPiBiTJViwpr4UDN3vDTe0gmJL2fiJKi_85rioBt7zSgL3H2I/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-a5msen76/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1718671291/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM1D5cMHE0x-hBoAr8nDcWEFNCpWM2y3kyEh846W8aQRAiBVLXVJk-6vRw6ny1btwlRSVzhrMkzPGhxJ9FO4yyyPQw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCLJtaecwQICDMj0PXojn7C-oaR4hWq-iRAs-Pza1z7ECIQCMrzIHbKLxKYeS0fRKep0yOyembq8o6zZQ2GUE_ZUY2w%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
 #EXTINF:-1 tvg-id="D09" tvg-name="中视新闻" tvg-logo="https://upload.112114.xyz/logo/中视新闻.png" group-title="国际频道",中视新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1718693277/ei/PdlwZtroGKzjsfIPzPOGoA8/ip/52.159.150.243/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5msen76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-GxYhtIOxaPiBiTJViwpr4UDN3vDTe0gmJL2fiJKi_85rioBt7zSgL3H2I/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-a5msen76/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1718671291/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM1D5cMHE0x-hBoAr8nDcWEFNCpWM2y3kyEh846W8aQRAiBVLXVJk-6vRw6ny1btwlRSVzhrMkzPGhxJ9FO4yyyPQw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCLJtaecwQICDMj0PXojn7C-oaR4hWq-iRAs-Pza1z7ECIQCMrzIHbKLxKYeS0fRKep0yOyembq8o6zZQ2GUE_ZUY2w%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 #EXTINF:-1 tvg-id="D10" tvg-name="民视新闻台" tvg-logo="https://upload.112114.xyz/logo/民视新闻.png" group-title="国际频道",民视新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1718693277/ei/PdlwZtroGKzjsfIPzPOGoA8/ip/52.159.150.243/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5msen76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-GxYhtIOxaPiBiTJViwpr4UDN3vDTe0gmJL2fiJKi_85rioBt7zSgL3H2I/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-a5msen76/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1718671291/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM1D5cMHE0x-hBoAr8nDcWEFNCpWM2y3kyEh846W8aQRAiBVLXVJk-6vRw6ny1btwlRSVzhrMkzPGhxJ9FO4yyyPQw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCLJtaecwQICDMj0PXojn7C-oaR4hWq-iRAs-Pza1z7ECIQCMrzIHbKLxKYeS0fRKep0yOyembq8o6zZQ2GUE_ZUY2w%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 #EXTINF:-1 tvg-id="D11" tvg-name="台视新闻台" tvg-logo="https://upload.112114.xyz/logo/台视新闻.png" group-title="国际频道",台视新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1718693277/ei/PdlwZtroGKzjsfIPzPOGoA8/ip/52.159.150.243/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5msen76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-GxYhtIOxaPiBiTJViwpr4UDN3vDTe0gmJL2fiJKi_85rioBt7zSgL3H2I/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-a5msen76/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1718671291/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM1D5cMHE0x-hBoAr8nDcWEFNCpWM2y3kyEh846W8aQRAiBVLXVJk-6vRw6ny1btwlRSVzhrMkzPGhxJ9FO4yyyPQw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCLJtaecwQICDMj0PXojn7C-oaR4hWq-iRAs-Pza1z7ECIQCMrzIHbKLxKYeS0fRKep0yOyembq8o6zZQ2GUE_ZUY2w%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 
 #EXTINF:-1 tvg-id="D12" tvg-name="中天新闻台" tvg-logo="https://upload.112114.xyz/logo/中天新闻.png" group-title="国际频道",中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716878680/ei/-ChVZrHDCP-KkucP6uWUkA0/ip/20.42.48.210/id/oIgbl7t0S_w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qlsndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Qu/mm/44/mn/sn-p5qlsndz/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716856468/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAM59-64tc4hWwQTNMkXQsF_hNu-LsXEFGOLyMrUUc_67AiBWvRNBOhCeXFVn7T1QX6ySHeVVmLz7rZdJfHG2Iz3G6w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgPzAHT3QIC6I_c_dsUSjmkXCSUfAKaRbf61gL-6oUyDoCIF1V_ySzxDPo9I-pbOGqlv_VD9i_y5DdFDkVVsAE7GBb/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 
 #EXTINF:-1 tvg-id="D13" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBS新闻.png" group-title="国际频道",TVBS新闻
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716878695/ei/BylVZr_oGti7y_sP7KiwoAo/ip/20.42.48.210/id/m_dhMSvUCIc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qddn7k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f59F4WhnCW_VGvzCbq6z09-WviBuAMO_a6ceXkJ7uZITlIgVk6KDO2NyvN0/vprv/1/playlist_type/DVR/mh/V0/mm/44/mn/sn-p5qddn7k/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716856468/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM6aOxGZkdKJQf-8Qq2coXkE1TGOyGPN98curghetuHyAiB1niFkPCGcJ7tUuUkmFelEeITos9OuJ0_rbhB01jjSpQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAOclsgLVmgfXDCoGyuCsZvYi2MWoPZp1M63lj3wpgwIIAiA4xbdrL_m7SbHSuNyXoL1lrbbOyBxcZ595mFD4p1v98g%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 
 
 
