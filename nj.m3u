@@ -1,0 +1,21 @@
+#南京电视台/5个频道
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/njxwzh.jpg" group-title="南京频道",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="http://www.tvyan.com/uploads/dianshi/njkjpd.jpg" group-title="南京频道",南京教科
+http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="http://www.tvyan.com/uploads/dianshi/njylpd.jpg" group-title="南京频道",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+
+#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/njshpd.jpg" group-title="南京频道",南京生活
+http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
+
+#EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="http://www.tvyan.com/uploads/dianshi/njxxpd.jpg" group-title="南京频道",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
+
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/njsepd.jpg" group-title="南京频道",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616054426455.jpg" group-title="南京频道",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
