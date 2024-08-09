@@ -227,13 +227,13 @@ https://stream.hrbtv.net/shpd/sd/live.m3u8
 
 #数字高清/28个频道
 #EXTINF:-1 tvg-id="C01" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="数字频道",CHC高清电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 
 #EXTINF:-1 tvg-id="C02" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="数字频道",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 
 #EXTINF:-1 tvg-id="C03" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="数字频道",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 
 #EXTINF:-1 tvg-id="C04" tvg-name="求索纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" group-title="数字频道",求索纪录
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
@@ -262,27 +262,31 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 
 #EXTINF:-1 tvg-id="C17" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="数字频道",风云剧场
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
 #EXTINF:-1 tvg-id="C18" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="数字频道",风云音乐
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
 #EXTINF:-1 tvg-id="C19" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="数字频道",第一剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
 #EXTINF:-1 tvg-id="C20" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="数字频道",女性时尚
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
 #EXTINF:-1 tvg-id="C22" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="数字频道",兵器科技
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
 #EXTINF:-1 tvg-id="C23" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="数字频道",怀旧剧场
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
 #EXTINF:-1 tvg-id="C24" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="数字频道",世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
 #EXTINF:-1 tvg-id="C25" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="数字频道",文化精品
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
+http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
 #EXTINF:-1 tvg-id="C26" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="数字频道",央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
 #EXTINF:-1 tvg-id="C27" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="数字频道",高尔夫网球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
 #EXTINF:-1 tvg-id="C28" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="数字频道",电视指南
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
+#EXTINF:-1 tvg-id="C28" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="数字频道",风云足球
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 tvg-id="C28" tvg-name="卫生健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="数字频道",卫生健康
+http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 
 #NewTV系列/17个频道
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
