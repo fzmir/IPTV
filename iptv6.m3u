@@ -129,10 +129,10 @@ http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw2482810079_2015670374/ottrrs.hl.
 http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw2531314338_1891703426/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png" tvg-id="51" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000027730/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" tvg-id="52" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw2996322019_-1749293790/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" tvg-id="53" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000031451/index.m3u8?
@@ -156,7 +156,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031120/index.m3u8?
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" tvg-id="71" tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225638/2.m3u8
+http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226433/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
@@ -165,7 +165,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266005/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" tvg-id="B35" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266001/index.m3u8?
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" tvg-id="70" tvg-name="康巴卫视" group-title="卫视频道",康巴卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266002/index.m3u8?
