@@ -17,10 +17,10 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?c
 http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视频道",CCTV-5+体育赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV-6电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
+http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw1592771597_580809367/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV-7国防军事
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
