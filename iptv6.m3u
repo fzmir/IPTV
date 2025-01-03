@@ -8,7 +8,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?c
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV-3综艺
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
+http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV-4中文国际
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
