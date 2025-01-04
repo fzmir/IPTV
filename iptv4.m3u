@@ -171,25 +171,25 @@ http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000058
 
 #黑龙江卫视频道/7个频道
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://diyp.112114.xyz/logo/lj-ws.png"  group-title="黑龙江频道",黑龙江综合
-http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw3745569663_1783156534/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000521
 
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻" tvg-logo="https://diyp1.112114.xyz/logo/lj-xw.png" group-title="黑龙江频道",黑龙江新闻法治
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+https://stream1.freetv.fun/ab42a37e36581ba919da225ab42eea2acebe963eed9be5658db2e3c1dc8dbec9.m3u8
 
 #EXTINF:-1 tvg-id="HLJ04" tvg-name="黑龙江都市" tvg-logo="https://diyp1.112114.xyz/logo/lj-ds.png" group-title="黑龙江频道",黑龙江都市
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8
 
 #EXTINF:-1 tvg-id="HLJ05" tvg-name="黑龙江公共" tvg-logo="https://diyp1.112114.xyz/logo/lj-ny.png" group-title="黑龙江频道",黑龙江农业科教
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+https://stream1.freetv.fun/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8
 
 #EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://diyp1.112114.xyz/logo/lj-wt.png" group-title="黑龙江频道",黑龙江文体
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+https://stream1.freetv.fun/93c7bfe0229d6200796061f8915b8ea07008a9760a79a73de0596530e1807520.m3u8
 
 #EXTINF:-1 tvg-id="HLJ03" tvg-name="黑龙江影视" tvg-logo="https://diyp1.112114.xyz/logo/lj-ys.png" group-title="黑龙江频道",黑龙江影视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+https://stream1.freetv.fun/2b6af76ec639c5dec60b79d46668472d9e2efabb9691fc1236aa49e1830e80f4.m3u8
 
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://diyp1.112114.xyz/logo/lj-sr.png" group-title="黑龙江频道",黑龙江少儿
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+https://stream1.freetv.fun/5e319bddd0791b061d150e2211423872627fda288b7aaa32075ee025142b8d38.m3u8
 
 #哈尔滨电视台/5个频道
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://diyp1.112114.xyz/logo/hrbxwzh.png" group-title="哈尔滨频道",哈尔滨新闻综合
