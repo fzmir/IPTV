@@ -56,7 +56,7 @@ http://live.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 http://live.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-id="C15" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-#http://121.29.111.242:8888/rtp/239.253.93.134:6631
+#https://la1.wqwqwq.sbs/tv.m3u
 
 #EXTINF:-1 tvg-id="C16" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 #http://mtw.so/62HqYI
