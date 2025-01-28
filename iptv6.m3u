@@ -2,37 +2,37 @@
 
 #央视频道高清/20个频道
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV-1综合
-http://120.76.248.139/live/bfgd/4200000488.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265001.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV-2财经
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
+http://live.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV-3综艺
-http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV-4中文国际
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+http://live.wqwqwq.sbs/itv/1000000005000265004.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
-http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视频道",CCTV-5+体育赛事
-http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV-6电影
-http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw1592771597_580809367/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265006.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV-7国防军事
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
+http://live.wqwqwq.sbs/itv/1000000005000265007.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视频道",CCTV-8电视剧
-http://[2409:8087:1a0a:df::4036]:80/wh7f454c46tw1670555715_-98597522/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265008.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视频道",CCTV-9纪录
-http://[2409:8087:1a0a:df::4015]:80/wh7f454c46tw1711975279_-1056895978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://live.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视频道",CCTV-10科教
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
+http://live.wqwqwq.sbs/itv/1000000001000023734.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视频道",CCTV-11戏曲
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
