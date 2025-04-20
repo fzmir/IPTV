@@ -2,95 +2,95 @@
 
 #央视频道高清/20个频道
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV-1综合
-http://47.122.125.40:6666/hls/cctv1hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV-2财经
-http://47.122.125.40:6666/hls/cctv2hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV-3综艺
-http://47.122.125.40:6666/hls/cctv3hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV-4中文国际
-http://47.122.125.40:6666/hls/cctv4hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
-http://47.122.125.40:6666/hls/cctv5hd.m3u8
+http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视频道",CCTV-5+体育赛事
-http://47.122.125.40:6666/hls/cctv5phd.m3u8
+http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV-6电影
-http://47.122.125.40:6666/hls/cctv6hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV-7国防军事
-http://47.122.125.40:6666/hls/cctv7hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视频道",CCTV-8电视剧
-http://47.122.125.40:6666/hls/cctv8hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视频道",CCTV-9纪录
-http://47.122.125.40:6666/hls/cctv9hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视频道",CCTV-10科教
-http://47.122.125.40:6666/hls/cctv10hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视频道",CCTV-11戏曲
-http://47.122.125.40:6666/hls/cctv12hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央视频道",CCTV-12社会与法
-http://47.122.125.40:6666/hls/cctv12hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV-13新闻
-http://47.122.125.40:6666/hls/cctv13hd.m3u8
+http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视频道",CCTV-14少儿
-http://47.122.125.40:6666/hls/cctv14hd.m3u8
+http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视频道",CCTV-15音乐
-http://47.122.125.40:6666/hls/cctv15hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视频道",CCTV-16奥林匹克
-http://47.122.125.40:6666/hls/cctv16hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视频道",CCTV-17农村农业
-http://47.122.125.40:6666/hls/cctv17hd.m3u8
+http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-id="C15" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-#https://la1.wqwqwq.sbs/tv.m3u
+http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-id="C16" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 #http://mtw.so/62HqYI
 
 #卫视频道高清/40个频道
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://47.122.125.40:6666/hls/hunanhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://47.122.125.40:6666/hls/zjhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://47.122.125.40:6666/hls/jshd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://47.122.125.40:6666/hls/btv1hd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://47.122.125.40:6666/hls/dfhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://47.122.125.40:6666/hls/ahhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/anhuiHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong.png" tvg-id="33" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://47.122.125.40:6666/hls/gdhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png" tvg-id="34" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://47.122.125.40:6666/hls/szhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://47.122.125.40:6666/hls/lnhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" tvg-id="37" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://47.122.125.40:6666/hls/hnhd.m3u8
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hainanHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" tvg-id="38" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://47.122.125.40:6666/hls/sdhd.m3u8
