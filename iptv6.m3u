@@ -56,7 +56,7 @@ http://220.164.192.48:50085/tsfile/live/0017_1.m3u8
 http://220.164.192.48:50085/tsfile/live/0018_1.m3u8
 
 #EXTINF:-1 tvg-id="C15" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 
 #EXTINF:-1 tvg-id="C16" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 #http://mtw.so/62HqYI
