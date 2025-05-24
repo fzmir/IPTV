@@ -14,10 +14,10 @@ http://220.164.192.48:50085/tsfile/live/0004_1.m3u8
 http://220.164.192.48:50085/tsfile/live/0005_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
-http://220.164.192.48:50085/tsfile/live/0006_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视频道",CCTV-5+体育赛事
-http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV-6电影
 http://220.164.192.48:50085/tsfile/live/0007_1.m3u8
