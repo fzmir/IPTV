@@ -2,16 +2,16 @@
 
 #央视频道高清/20个频道
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV-1综合
-http://220.164.192.48:50085/tsfile/live/0002_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-1HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV-2财经
-http://220.164.192.48:50085/tsfile/live/0003_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV-3综艺
-http://220.164.192.48:50085/tsfile/live/0004_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-3HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV-4中文国际
-http://220.164.192.48:50085/tsfile/live/0005_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-4HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
 http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
@@ -20,40 +20,40 @@ http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
 http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV-6电影
-http://220.164.192.48:50085/tsfile/live/0007_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-6HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV-7国防军事
-http://220.164.192.48:50085/tsfile/live/0008_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-7HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视频道",CCTV-8电视剧
-http://220.164.192.48:50085/tsfile/live/0009_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-8HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视频道",CCTV-9纪录
-http://220.164.192.48:50085/tsfile/live/0010_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-9HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视频道",CCTV-10科教
-http://220.164.192.48:50085/tsfile/live/0011_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-10HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视频道",CCTV-11戏曲
-http://120.76.248.139/live/bfgd/4200000130.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-11HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央视频道",CCTV-12社会与法
-http://220.164.192.48:50085/tsfile/live/0013_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-12HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV-13新闻
-http://121.30.137.26:8081/hls/13/index.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视频道",CCTV-14少儿
-http://220.164.192.48:50085/tsfile/live/0015_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-14HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视频道",CCTV-15音乐
-http://120.76.248.139/live/bfgd/4200000133.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视频道",CCTV-16奥林匹克
-http://220.164.192.48:50085/tsfile/live/0017_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视频道",CCTV-17农村农业
-http://220.164.192.48:50085/tsfile/live/0018_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
 
 #EXTINF:-1 tvg-id="C15" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 #http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
@@ -66,16 +66,16 @@ http://220.164.192.48:50085/tsfile/live/0018_1.m3u8
 http://220.164.192.48:50085/tsfile/live/0107_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://220.164.192.48:50085/tsfile/live/0127_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-ZJWS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://220.164.192.48:50085/tsfile/live/0128_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-JSWS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://220.164.192.48:50085/tsfile/live/0135_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://220.164.192.48:50085/tsfile/live/0122_1.m3u8
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DFWS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
 http://220.164.192.48:50085/tsfile/live/0126_1.m3u8
