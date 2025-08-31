@@ -203,7 +203,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #哈尔滨电视台/5个频道
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://diyp1.112114.xyz/logo/hrbxwzh.png" group-title="哈尔滨频道",哈尔滨新闻综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+https://stream.hrbtv.net/xwzh/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="哈尔滨都市资讯" tvg-name="哈尔滨都市资讯" tvg-logo="https://diyp1.112114.xyz/logo/hrbzx.png" group-title="哈尔滨频道",哈尔滨都市资讯
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -212,7 +212,7 @@ https://stream.hrbtv.net/zxpd/sd/live.m3u8
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://diyp1.112114.xyz/logo/hrbys.png" group-title="哈尔滨频道",哈尔滨影视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+https://stream.hrbtv.net/yspd/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="https://diyp1.112114.xyz/logo/hrbsh.png" group-title="哈尔滨频道",哈尔滨生活
 https://stream.hrbtv.net/shpd/sd/live.m3u8
@@ -399,23 +399,23 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 
 
 #EXTINF:-1 tvg-id="D13" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="国际频道",CGTN
-https://0472.org/hls/cgtn.m3u8
-
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000009569/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3$4M%20SD
 
 #EXTINF:-1 tvg-id="D14" tvg-name="CGTN纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="国际频道",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
+http://[2409:8087:5e08:25::16]:6610/000000001000/8428799834696888424/index.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="D15" tvg-name="CGTN法语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="国际频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="D16" tvg-name="CGTN俄语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="国际频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="D17" tvg-name="CGTN西语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="国际频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="D18" tvg-name="CGTN阿语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="国际频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
+
 
 
 
