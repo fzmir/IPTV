@@ -2,7 +2,7 @@
 
 #央视频道高清/20个频道
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV-1综合
-http://69.30.245.50/live/cctv1.m3u8
+http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV-2财经
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
@@ -415,6 +415,7 @@ http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280002/index.m3u8?
 
 #EXTINF:-1 tvg-id="D18" tvg-name="CGTN阿语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="国际频道",CGTN阿语
 http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
+
 
 
 
