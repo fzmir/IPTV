@@ -417,8 +417,17 @@ http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280002/index.m3u8?
 #EXTINF:-1 tvg-id="D18" tvg-name="CGTN阿语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="国际频道",CGTN阿语
 http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000280001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
+http://162.128.169.70/txycdn.video.qq.com/1369718503.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
+http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视频道",CCTV-5体育
+http://8.146.205.160:8888/edge-cache04.live3.omd.sc96655.com/live/CCTV-5H265_4000.m3u8
 
 
 
